@@ -6,4 +6,4 @@
    <li>JavaScript</li>
 </ul>
 <h3>Live Site:</h3>
-<a href="">Netlify</a>
+<a href="https://gtn-game.netlify.app">Netlify</a>
